@@ -1,1 +1,1 @@
-# Gaming-platform
+# GamingPlatform
