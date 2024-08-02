@@ -369,3 +369,67 @@ font-weight: 700;
     color: #fff;
 
 }
+.footer{
+    margin-top: 160px;
+    background: #070707;
+    padding-bottom: 30px;
+}
+.footer__content{
+    display: flex;
+    justify-content: space-between;
+    padding: 80px 120px 50px 100px;
+}
+.footer__logo-info{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.footer__logo{
+    font-size: 24px;
+    font-weight: 600;
+}
+.footer__logo-text{
+    max-width: 372px;
+}
+.about-us{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.about-us ul{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    color: #fff;
+}
+.about-us ul li a{
+    color: #fff;
+}
+
+.contacnts{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.contacnts ul{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.contacnts__info{
+    max-width: 282px;
+}
+.social{
+    display: flex;
+    gap: 15px;
+    align-items: end;
+}
+.copyright{
+    padding-top: 30px;
+    border-top: 1px solid #D2D2D2;
+    text-align: center;
+}
+.copyright p{
+    font-size: 13px;
+}
